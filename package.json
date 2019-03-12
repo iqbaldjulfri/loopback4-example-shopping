@@ -54,7 +54,7 @@
     "@loopback/authentication": "^1.0.9",
     "@loopback/boot": "^1.0.9",
     "@loopback/context": "^1.4.1",
-    "@loopback/core": "^1.1.4",
+    "@loopback/core": "1.1.7",
     "@loopback/openapi-v3": "^1.1.6",
     "@loopback/repository": "^1.1.2",
     "@loopback/rest": "^1.5.2",
